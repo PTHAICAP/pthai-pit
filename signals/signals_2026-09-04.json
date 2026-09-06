@@ -1,0 +1,66 @@
+{
+  "signal_date": "2026-09-04",
+  "execution_date": "2026-09-07",
+  "engine_hash": "v21c-1.3.0-85ebb8e5",
+  "engine_version": "1.3.0",
+  "generated_at": "2026-09-06T02:22:24",
+  "data_quality": {
+    "universe_size_today": 482,
+    "universe_size_prev": 482,
+    "vnindex_close_age_days": 0,
+    "warnings": [],
+    "ok": true
+  },
+  "cycle": "MID",
+  "active_sectors": [
+    9500,
+    2700,
+    5300,
+    3300
+  ],
+  "macro_exposure_cap": 0.3,
+  "current_positions": [
+    {
+      "symbol": "PET",
+      "qty": 3199975.391697345,
+      "entry_date": "2026-03-10",
+      "entry_price": 35.2,
+      "tp_step": 2,
+      "sector": 5300,
+      "current_close": 37.9,
+      "pnl_pct": 7.670454545454533
+    },
+    {
+      "symbol": "GMD",
+      "qty": 6130020.886407975,
+      "entry_date": "2026-03-10",
+      "entry_price": 73.5,
+      "tp_step": 0,
+      "sector": 2700,
+      "current_close": 77.6,
+      "pnl_pct": 5.578231292516999
+    },
+    {
+      "symbol": "DGW",
+      "qty": 10313160.731074551,
+      "entry_date": "2026-03-31",
+      "entry_price": 46.1,
+      "tp_step": 0,
+      "sector": 5300,
+      "current_close": 39.9,
+      "pnl_pct": -13.449023861171373
+    }
+  ],
+  "orders": [
+    {
+      "side": "sell",
+      "symbol": "DGW",
+      "qty_frac": 1.0,
+      "ref_price": 39.9,
+      "reason": "stop_loss",
+      "stop_at": 41.49
+    }
+  ],
+  "decision": "OK",
+  "warnings": []
+}

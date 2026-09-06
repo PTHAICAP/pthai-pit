@@ -1,0 +1,4 @@
+noted_at,as_of,file,issue,use_instead
+2026-09-06T10:40:00+07:00,2026-09-04,2026/pit-2026-09-04.csv,"Chup luc 10:04 trong gio giao dich (chua dong cua): gia la so trong phien, khong phai dong cua",revisions/pit-2026-09-04--seen-2026-09-06.csv
+2026-09-06T10:40:00+07:00,2026-09-04,revisions/pit-2026-09-04--seen-2026-09-04.csv,"Chup luc 10:45 trong gio giao dich",revisions/pit-2026-09-04--seen-2026-09-06.csv
+2026-09-06T10:40:00+07:00,2026-09-04,market/2026.csv,"Dong 2026-09-04: vnindex_close 1849.74 la so luc 10:04; dong cua that 1853.08",

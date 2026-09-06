@@ -1,0 +1,7 @@
+# 06/09/2026: dữ liệu công bố phải giữ nguyên byte trên mọi máy. Windows với
+# core.autocrlf=true đổi LF -> CRLF khi checkout, làm `sha256sum` lệch MANIFEST
+# và người kiểm chứng kết luận sai là "tệp bị sửa".
+pit/**                       text eol=lf
+pthai/strategy_v2/signals/** text eol=lf
+# proof OpenTimestamps là nhị phân, không được đụng vào xuống dòng
+pit/ots/**                   -text
