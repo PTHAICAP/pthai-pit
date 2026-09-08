@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07",
+  "generated_at": "2026-09-08",
   "method": "Chấm bằng giá mở cửa ngày thực thi so với giá đóng cửa gần nhất. BUY đúng khi giá tăng; SELL đúng khi giá giảm sau khi thoát (tránh được phần giảm tiếp). Dưới 10 phiên = đang theo dõi.",
   "n_orders": 1,
   "n_settled": 0,
@@ -17,9 +17,9 @@
       "ref_price": 39.9,
       "fill_date": "2026-09-07",
       "fill_price": 40.7,
-      "last_price": 41.8,
-      "days_held": 0,
-      "return_pct": -2.63,
+      "last_price": 41.95,
+      "days_held": 1,
+      "return_pct": -2.98,
       "status": "watching"
     }
   ]
